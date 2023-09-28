@@ -33,7 +33,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
-**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 <hr />
 
