@@ -57,7 +57,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/int
 
 Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
-**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 <hr />
 
@@ -65,7 +65,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointe
 
 Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction](https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction)
 
-Il n'y a pas d'évaluation prévue à l'issue de ces exercices. (Pas d'évaluation qui rentre dans l'évaluation continue, **mais cette matière est essentielle à la réussite de l'examen !**)
+**Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 <hr />
 
@@ -73,7 +73,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices. (Pas d'évaluati
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
-Il n'y a pas d'évaluation prévue à l'issue de ces exercices. Ces énoncés permettent surtout d'introduire des concepts utiles pour attaquer le deuxième quadrimestre (avec les chaînes de caractères) dans les meilleures conditions.
+**Une évaluation pourrait être prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
 <hr />
 
