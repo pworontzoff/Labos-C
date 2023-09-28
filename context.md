@@ -15,7 +15,7 @@ Et donc **n'hésitez jamais** à poser une question à votre titulaire de labo&n
 
 Des évaluations (interrogations) régulières sont prévues et constituent une cote dite d'*évaluation continue* qui sera la cote que vous recevrez sur votre bulletin, en session de janvier.
 
-NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'on va compléter l'apprentissage des outils de base du programmeur (les chaînes de caractères, les fichiers, les structures, les LLU) et intégrer tout ces concepts dans des programmes plus "concrets" et plus long et complexe que ces petits énoncés du premier quadrimestre.
+NB : Dans une autre UE, la matière se poursuivra au second quadrimestre où l'on va compléter l'apprentissage des outils de base du programmeur (les fichiers, les structures, les LLU) et intégrer tout ces concepts dans des programmes plus "concrets" et plus long et complexe que ces petits énoncés du premier quadrimestre.
 
 <hr />
 
