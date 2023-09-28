@@ -1,0 +1,18 @@
+title: HEPL - Bloc 1, Q1 - Labos C - P Worontzoff
+plan:
+- title: Contexte et planification du travail
+  statement: context.md
+- title: 1 - Exercices d'introduction à la programmation C avec les "Papers"
+  statement: papers.md
+- title: 2 - Exercices sur les variables et les instructions
+  statement: variables.md
+- title: 3 - Exercices sur les alternatives et les structures
+  statement: alternatives.md
+- title: 4 - Exercices sur les répétitions
+  statement: repetitions.md
+- title: 5 - Exercices sur les vecteurs et pointeurs
+  statement: vecteurs-pointeurs.md
+- title: 6 - Exercices sur les tableaux (à 2 dimensions)
+  statement: tableaux.md
+- title: 7 - Exercices sur les chaines de caractères
+  statement: chaines.md
