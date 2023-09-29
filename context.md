@@ -31,7 +31,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 2 - Exercices sur les variables et les instructions
 
-![En construction - les exercices vont un peu changer !!](en_constr.jpg) En construction - les exercices vont un peu changer !!
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
 
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
@@ -41,6 +41,8 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 3 - Exercices sur les alternatives et les structures
 
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9](https://tech.io/playgrounds/55382/les-alternatives-et-les-structures/exercice-1-sur-9)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés du premier quadrimestre utilisent la notion de structure pour faciliter leur apprentissage complet, évaluation comprise, au second quadrimestre.)**
@@ -48,6 +50,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/les-alternatives-et
 <hr />
 
 ### 4 - Exercices sur les répétitions
+
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
 
 Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
 
@@ -57,6 +61,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/int
 
 ### 5 - Exercices sur les vecteurs et pointeurs
 
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
 Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
@@ -65,6 +71,8 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 6 - Exercices sur les tableaux (à 2 dimensions)
 
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction](https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
@@ -72,6 +80,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 <hr />
 
 ### 7 - Exercices sur les chaines de caractères
+
+!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
