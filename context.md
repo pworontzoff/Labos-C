@@ -31,8 +31,6 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 2 - Exercices sur les variables et les instructions
 
-!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
-
 Lien vers les exercices : [https://tech.io/playgrounds/55269/les-variables/introduction](https://tech.io/playgrounds/55269/les-variables/introduction)
 
 Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
