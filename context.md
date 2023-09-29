@@ -39,7 +39,7 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 <hr />
 
-### 3 - Exercices sur les alternatives, le degbogueur et les structures
+### 3 - Exercices sur les alternatives, le debogeur et les structures
 
 !! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
 
