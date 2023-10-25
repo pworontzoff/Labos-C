@@ -45,7 +45,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 
 <hr />
 
-### 4 - Exercices sur les répétitions
+### 4 - Exercices sur les répétitions et les fonctions
 
 !! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
 
