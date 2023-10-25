@@ -8,7 +8,7 @@ plan:
   statement: variables.md
 - title: 3 - Exercices sur les alternatives et les structures
   statement: alternatives.md
-- title: 4 - Exercices sur les répétitions
+- title: 4 - Exercices sur les répétitions et les fonctions
   statement: repetitions.md
 - title: 5 - Exercices sur les vecteurs et pointeurs
   statement: vecteurs-pointeurs.md
