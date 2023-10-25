@@ -1,6 +1,6 @@
 # HEPL - Bloc 1, Q1 - Labos C - P Worontzoff
 
-## 4 - Exercices sur les répétitions
+## 4 - Exercices sur les répétitions et les fonctions
 
 Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
 
