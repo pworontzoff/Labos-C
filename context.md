@@ -47,9 +47,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 
 ### 4 - Exercices sur les répétitions et les fonctions
 
-!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
-
-Lien vers les exercices : [https://tech.io/playgrounds/55535/les-repetitions/introduction](https://tech.io/playgrounds/55535/les-repetitions/introduction)
+Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction](https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
