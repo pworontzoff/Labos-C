@@ -43,7 +43,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés du premier quadrimestre utilisent la notion de structure pour faciliter leur apprentissage complet, évaluation comprise, au second quadrimestre.)**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 17/11. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux. Une petite question sur le débogueur sera également inclue dans ce test.**
+**==> CETTE INTERRO AURA LIEU LE VENDREDI 17/11. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 <hr />
 
@@ -52,6 +52,9 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction](https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+
+**==> CETTE INTERRO AURA LIEU LE VENDREDI 24/11. Il s'agira de modifier un des énoncés de ce chapitres 4 (drawings non inclus) selon les consignes du professeur. Il faudra également savoir utiliser le débogueur de Visual Studio (point d'arrêt, exécution pas à pas, visualisation des valeurs des variables et expressions). Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
+
 
 <hr />
 
