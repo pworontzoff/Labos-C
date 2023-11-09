@@ -60,8 +60,6 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions
 
 ### 5 - Exercices sur les vecteurs et pointeurs
 
-!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
-
 Lien vers les exercices : [https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs](https://tech.io/playgrounds/55695/les-vecteurs-pointeurs/exercice-1-vecteurs)
 
 Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
