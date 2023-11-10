@@ -43,7 +43,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés du premier quadrimestre utilisent la notion de structure pour faciliter leur apprentissage complet, évaluation comprise, au second quadrimestre.)**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 17/11. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
+**==> CETTE INTERRO AURA LIEU LE VENDREDI 17/11. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux (exercices facultatifs non inclus).**
 
 <hr />
 
@@ -53,7 +53,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 24/11. Il s'agira de répondre aux questions posées par le professeur à propos d'un des énoncés de ce chapitre 4 (drawings non inclus) selon les consignes du professeur. Il faudra également savoir utiliser le débogueur de Visual Studio (point d'arrêt, exécution pas à pas, visualisation des valeurs des variables et expressions). Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
+**==> CETTE INTERRO AURA LIEU LE VENDREDI 24/11. Il s'agira de répondre aux questions posées par le professeur à propos d'un des énoncés de ce chapitre 4 (exercices facultatifs non inclus) selon les consignes du professeur. Il faudra également savoir utiliser le débogueur de Visual Studio (point d'arrêt, exécution pas à pas, visualisation des valeurs des variables et expressions). Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 
 <hr />
