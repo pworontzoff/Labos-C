@@ -98,8 +98,6 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 6 - Exercices sur les tableaux (à 2 dimensions)
 
-!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
-
 Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction](https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
