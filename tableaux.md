@@ -17,10 +17,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 * 3%	printf scanf et codes de formats
 * 3%	Opérations arithmétiques dont %
 * 4%	Priorité des opérations
-* 6%	Découpe en sous-problèmes
 * 7%	fonctions, arg par val et retour
-* 7%	Conditions simples et composées
-* 7%	Alternatives, dont le switch
 * 8%	Les boucles while, do-while et for
 * 5%	Passage d'arg par & dans les fonctions
 * 8%	Les tableaux (décl. et parcours par indices)
+
