@@ -6,7 +6,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 15/12. Il s'agira de résoudre un énoncé qui sera une variante d'un des exercices proposés. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
+**==> CETTE INTERRO AURA LIEU LE JEUDI 14/12. Il s'agira de résoudre un énoncé qui sera une variante d'un des exercices proposés. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 **Les critères de cotations (et leurs pondérations) pour cette évaluation sont**
 
