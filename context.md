@@ -124,8 +124,6 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 
 ### 7 - Exercices sur les chaines de caractères
 
-!! En construction - les exercices vont un peu changer !! ![En construction - les exercices vont un peu changer !!](en_constr.jpg)
-
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
 **Une évaluation sera prévue à l'issue de ces exercices, le jeudi 21/12. Les informations pratiques sont données oralement par le professeur de labo.**
