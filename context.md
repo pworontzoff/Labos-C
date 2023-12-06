@@ -128,7 +128,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
-**Une évaluation sera prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
+**Une évaluation sera prévue à l'issue de ces exercices, le jeudi 21/12. Les informations pratiques sont données oralement par le professeur de labo.**
 
 **Les critères de cotations pour cette évaluation sont**
 
