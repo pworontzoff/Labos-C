@@ -43,20 +43,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés du premier quadrimestre utilisent la notion de structure pour faciliter leur apprentissage complet, évaluation comprise, au second quadrimestre.)**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 17/11. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux (exercices facultatifs non inclus).**
-
-**Les critères de cotations (et leurs pondérations) pour cette évaluation sont**
-
-* 7%	Présentation et clarté du code
-* 5%	Optimisation du code
-* 4%	Types numériques
-* 4%	Variables
-* 3%	Affectations
-* 3%	Instructions (ordre optimisé)
-* 3%	printf scanf et codes de formats
-* 3%	Opérations arithmétiques dont %
-* 7%	Conditions simples et composées
-* 7%	Alternatives, dont le switch
+**==> CETTE INTERRO AURA LIEU LE ????????. Il s'agira d'un énoncé inédit qui ressemble aux énoncés des chapitres 2 et 3. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux (exercices facultatifs non inclus).**
 
 <hr />
 
@@ -66,25 +53,7 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
-**==> CETTE INTERRO AURA LIEU LE VENDREDI 24/11. Il s'agira de répondre aux questions posées par le professeur à propos d'un des énoncés de ce chapitre 4 (exercices facultatifs non inclus) selon les consignes du professeur. Il faudra également savoir utiliser le débogueur de Visual Studio (point d'arrêt, exécution pas à pas, visualisation des valeurs des variables et expressions). Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
-
-**Les critères de cotations (et leurs pondérations) pour cette évaluation sont**
-
-* 7%	Présentation et clarté du code
-* 5%	Optimisation du code
-* 4%	Utilisation du débogueur
-* 4%	Types numériques
-* 4%	Variables
-* 3%	Affectations
-* 3%	Instructions (ordre optimisé)
-* 3%	printf scanf et codes de formats
-* 3%	Opérations arithmétiques dont %
-* 4%	Priorité des opérations
-* 6%	Découpe en sous-problèmes* 
-* 7%	fonctions, arg par val et retour
-* 7%	Conditions simples et composées
-* 7%	Alternatives, dont le switch
-* 8%	Les boucles while, do-while et for
+**==> CETTE INTERRO AURA LIEU LE ????????. Il s'agira de répondre aux questions posées par le professeur à propos d'un des énoncés de ce chapitre 4 (exercices facultatifs non inclus) selon les consignes du professeur. Il faudra également savoir utiliser le débogueur de Visual Studio (point d'arrêt, exécution pas à pas, visualisation des valeurs des variables et expressions). Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 <hr />
 
@@ -102,47 +71,15 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
-**==> CETTE INTERRO AURA LIEU LE JEUDI 14/12. Il s'agira de résoudre un énoncé qui sera une variante d'un des exercices proposés. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
-
-**Les critères de cotations (et leurs pondérations) pour cette évaluation sont**
-
-* 7%	Présentation et clarté du code
-* 5%	Optimisation du code
-* 4%	Types numériques
-* 4%	Variables
-* 3%	Affectations
-* 3%	Instructions (ordre optimisé)
-* 3%	printf scanf et codes de formats
-* 3%	Opérations arithmétiques dont %
-* 4%	Priorité des opérations
-* 7%	fonctions, arg par val et retour
-* 8%	Les boucles while, do-while et for
-* 5%	Passage d'arg par & dans les fonctions
-* 8%	Les tableaux (décl. et parcours par indices)
-
-<hr />
+**==> CETTE INTERRO AURA LIEU LE ????????. Il s'agira de résoudre plusieurs exercices et questions ouvertes. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 ### 7 - Exercices sur les chaines de caractères
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
-**Une évaluation sera prévue à l'issue de ces exercices, le jeudi 21/12. Les informations pratiques sont données oralement par le professeur de labo.**
+**Une évaluation sera prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
 
-**Les critères de cotations pour cette évaluation sont**
-
-* 7% Présentation et clarté du code
-* 5% Optimisation du code
-* 4% Variables
-* 3% Affectations
-* 3% Instructions (ordre optimisé)
-* 3% printf scanf et codes de formats
-* 6% Découpe en sous-problèmes
-* 7% fonctions, arg par val et retour
-* 7% Conditions simples et composées
-* 7% Alternatives, dont le switch
-* 8% Les boucles while, do-while et for
-* 6% Les vecteurs et chaînes de caractères
-* 6% Les fonctions de manipulations de ch de car
+**==> CETTE INTERRO AURA LIEU LE ????????. Il s'agira de résoudre plusieurs exercices et questions ouvertes. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 <hr />
 
