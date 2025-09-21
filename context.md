@@ -42,6 +42,8 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 3 - Exercices sur les alternatives, le debogueur (et les structures)
 
+![en construction...](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternatives-le-debogueur-et-les-structures/introduction](https://tech.io/playgrounds/55382/3---les-alternatives-le-debogueur-et-les-structures/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo. (Précisons déjà que les structures ne feront pas partie de la matière pour cette évaluation. En effet, certains énoncés du premier quadrimestre utilisent la notion de structure pour faciliter leur apprentissage complet, évaluation comprise, au second quadrimestre.)**
@@ -51,6 +53,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/55382/3---les-alternative
 <hr />
 
 ### 4 - Exercices sur les répétitions et les fonctions
+
+![en construction...](en_constr.jpg)
 
 Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction](https://tech.io/playgrounds/55535/4---les-repetitions-et-les-fonctions/introduction)
 
@@ -62,6 +66,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/55535/4---les-repetitions
 
 ### 5 - Exercices sur les vecteurs et pointeurs
 
+![en construction...](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/55695/5---les-vecteurs-pointeurs/introduction](https://tech.io/playgrounds/55695/5---les-vecteurs-pointeurs/introduction)
 
 Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
@@ -70,6 +76,8 @@ Il n'y a pas d'évaluation prévue à l'issue de ces exercices.
 
 ### 6 - Exercices sur les tableaux (à 2 dimensions)
 
+![en construction...](en_constr.jpg)
+
 Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction](https://tech.io/playgrounds/59181/6---les-tableaux-a-2-dimensions/introduction)
 
 **Une évaluation est prévue à l'issue de ces exercices. Les informations pratiques sont données oralement par le professeur de labo.**
@@ -77,6 +85,8 @@ Lien vers les exercices : [https://tech.io/playgrounds/59181/6---les-tableaux-a-
 **==> CETTE INTERRO AURA LIEU LE ????????. Il s'agira de résoudre plusieurs exercices et questions ouvertes. Il convient donc d'avoir réalisé et relu vos solutions à ces exercices pour être préparé au mieux.**
 
 ### 7 - Exercices sur les chaines de caractères
+
+![en construction...](en_constr.jpg)
 
 Lien vers les exercices : [https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction](https://tech.io/playgrounds/56102/les-chaines-de-caracteres/introduction)
 
